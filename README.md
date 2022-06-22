@@ -1,3 +1,4 @@
 # Weatherapi app for getting weather data
 
-### API key required in apiConfig file
+### 1. API key required in apiConfig file
+### 2. Get request like `weather/{city}`
